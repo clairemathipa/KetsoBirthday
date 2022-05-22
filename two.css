@@ -1,0 +1,18 @@
+body{
+    margin: 0%;
+    background-color:#ffc2d1;
+}
+.header{
+    font-family: 'Poppins', sans-serif;
+    margin-top: 3rem;
+    font-size: 25px;
+    text-align: center;
+    color: white;
+}
+.wish{
+    text-align: center;
+    font-size: 25px;
+    font-family: 'Poppins', sans-serif;
+    margin-top: 10rem;
+    color: white;
+}
