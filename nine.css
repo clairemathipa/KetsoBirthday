@@ -16,3 +16,9 @@ body{
     margin-top: 10rem;
     color: white;
 }
+.wish{
+    text-align: center;
+    font-size: 25px;
+    font-family: 'Poppins', sans-serif;
+    margin-top: 10rem;
+}
